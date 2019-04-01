@@ -1,0 +1,35 @@
+<tr style="display: table-row;">
+    <td>ABCD</td>
+    <td>Duong Nhat</td>
+    <td>14/04/1996</td>
+    <td>HungYen</td>
+    <td>SS1</td>
+    <td>Kinh</td>
+    <td>
+      <a href="#editEmployeeModal" class="edit" data-toggle="modal" onclick="showEditStudent(this)">
+        <i class="material-icons" data-toggle="tooltip" title="Edit"></i>
+      </a>
+      <a href="#deleteEmployeeModal" class="delete" data-toggle="modal" onclick="deleteStudent(this)">
+        <i class="material-icons" data-toggle="tooltip" title="Delete"></i>
+      </a>
+    </td>
+  </tr>
+
+
+     <tr>
+      <td>asd</td>
+      <td>asd</td>
+      <td>04/09/2019</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td>
+        <a href="#editEmployeeModal" class="edit" data-toggle="modal" onclick="showEditStudent(this)">
+          <i class="material-icons" data-toggle="tooltip" title="Edit"></i>
+        </a>
+        <a href="#deleteEmployeeModal" class="delete" data-toggle="modal" onclick="deleteStudent(this)">
+          <i class="material-icons" data-toggle="tooltip" title="Delete"></i>
+        </a>
+      </td>
+    </tr>
+  
